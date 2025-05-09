@@ -17,10 +17,8 @@
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+                University of Glasgow Graduate 2020. Former research assistant at National Astronomical Research Institute of Thailand (NARIT).
+                Candidate to Thai Scholarship for University of Chinese Academy of Science (UCAS) Academic Year 2025-2026
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -29,15 +27,18 @@
     <div class="work__text">
     <h3>Project Interests</h3>
     <p>
-        Interests
+        Projects I used to contribute with at NARIT and University of Glasgow
     </p>
     <ul class="work__list">
         <li>Variable Stars</li>
         <li>Data-driven Astronomy</li>
-        <li>Stellar Astrophysics</li>
+        <li>Solar Physics</li>
         <li>Planetary Formation and Planetary Sciences</li>
     </ul>
     <h3>Favourite Anime</h3>
+    <ul class="anime">
+        <li>2010s: BEASTARS, Fire Force, My Hero Academia, Haikyu!!</li>
+    </ul>
     <p> Haikyu!!, BEASTARS, My Hero Academia</p>
     </div>
     
